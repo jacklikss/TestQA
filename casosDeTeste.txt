@@ -1,0 +1,92 @@
+👩‍💻Caso de Teste 
+Um caso de teste do site https://front.serverest.dev/login
+
+1️- Identificador do Caso de Teste (ID)
+CT_001
+
+
+2️- Título
+
+
+Validar login com usuário válido
+
+
+3️- Objetivo
+
+
+Verificar se o sistema permite login com credenciais corretas.
+
+
+4️- Requisito Relacionado
+
+Tela de login – Autenticação de Usuário
+
+
+5️- Pré-condições
+
+
+Usuário previamente cadastrado;
+
+
+Sistema disponível online.
+
+
+
+6️- Dados de Teste
+
+
+Usuário: jack.likss@gmail.com
+
+
+Senha: 12345678
+
+
+
+7️- Passos para Execução
+
+
+Acessar a tela de login.
+
+
+Informar usuário válido.
+
+
+Informar senha válida.
+
+
+Clicar no botão "Entrar".
+
+
+8️- Resultado Esperado
+
+
+Sistema redireciona para a página inicial;
+
+
+Exibe a mensagem "Login realizado com sucesso";
+
+
+Direcionamento tela principal “Bem Vindo Jaqueline”.
+
+
+
+9️- Resultado Obtido
+O que realmente aconteceu durante o teste.
+
+
+Preenchido após a execução.
+
+
+10- Status
+Aprovado
+
+
+
+
+
+
+
+
+
+
+
